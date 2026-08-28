@@ -1,0 +1,12 @@
+interface:
+  display_name: Consumer Insight Briefing Gatekeeper
+  short_description: Desafia e melhora briefings de Consumer Insight
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
