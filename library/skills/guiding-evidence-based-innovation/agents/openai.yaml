@@ -1,0 +1,3 @@
+display_name: Evidence-Based Innovation Guide
+short_description: Analisa projetos de inovação e prepara decisões de gate fundamentadas em evidência.
+default_prompt: Analisa os materiais deste projeto, identifica a fase e a evidência disponível, assinala lacunas e prepara uma recomendação para a próxima decisão.
