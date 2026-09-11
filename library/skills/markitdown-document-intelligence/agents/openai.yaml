@@ -1,0 +1,3 @@
+display_name: MarkItDown Document Intelligence
+short_description: Converte e valida documentos em Markdown rastreável e preparado para análise por IA.
+default_prompt: Analisa os documentos fornecidos, recomenda a conversão local adequada com MarkItDown e prepara um plano de QA, metadados e estrutura para o destino indicado.
