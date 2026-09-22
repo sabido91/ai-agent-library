@@ -1,0 +1,3 @@
+display_name: Validação de Artes Finais
+short_description: Valida uma arte final contra a versão anterior, alterações pedidas e FDE aprovada.
+default_prompt: Recolhe a arte NOVA, a ANTIGA, as alterações pedidas e a FDE sem repetir pedidos já satisfeitos; depois valida alterações, linguagem, mudanças inesperadas e conformidade independente com a FDE.
